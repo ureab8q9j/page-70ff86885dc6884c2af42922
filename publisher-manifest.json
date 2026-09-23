@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "78615c7cfaf0447ce32fe69a",
+  "owner": "ureab8q9j",
+  "repo": "page-70ff86885dc6884c2af42922",
+  "title": "飞鸟云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "70ff86885dc6884c2af42922",
+      "a": "飞鸟云",
+      "b": "机场官网线路发布页",
+      "entity": "飞鸟云",
+      "brand": "飞鸟云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5f6919577e785619dd500496423087e5db39883d46d882d29fe29c667e2f0d7f",
+      "content": {
+        "primary_entity": "飞鸟云",
+        "keyword1": "飞鸟云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择适配客户端，导入订阅后即可连接使用。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "选择适合的套餐，按照教程配置订阅，即可开始稳定加速体验。",
+          "AI_CLOSING_TITLE": "开启飞鸟云加速",
+          "AI_DESCRIPTION": "，飞鸟云提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB至1000GB流量，支持3台至20台设备同时在线。旗舰版与团队版搭载IPLC专线与VIP高带宽节点，适合流媒体解锁、游戏加速及企业多设备场景。用户可根据设备数量和流量需求灵活选择月付或年付方案。",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，适合个人手机与电脑组合使用；旗舰版支持5台，满足家庭多设备；团队版支持20台，适合小型团队协作。",
+          "AI_FAQ_ANSWER_2": "飞鸟云提供月付和年付两种周期。基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付通常更划算，适合长期需求。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含全节点原生流媒体解锁和IPLC专线游戏加速优化，基础版则提供基础流媒体解锁和普通线路节点池。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，根据设备系统下载对应客户端，在客户端内扫描或粘贴订阅链接即可完成配置。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由选项，并提供专属客户经理服务，适合有特定网络架构需求的团队。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_3": "旗舰版比基础版多了哪些功能？",
+          "AI_FAQ_QUESTION_4": "如何配置客户端订阅？",
+          "AI_FAQ_QUESTION_5": "团队版是否支持定制化需求？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "按设备数量与用途选套餐，避免资源浪费。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人使用，3台设备与100GB流量覆盖日常浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供5台设备、300GB流量及IPLC专线，兼顾流媒体与游戏。",
+          "AI_FEATURE_TEXT_3": "团队版支持20台设备、1000GB流量和VIP节点，可定制路由。",
+          "AI_FEATURE_TITLE_1": "个人轻量需求",
+          "AI_FEATURE_TITLE_2": "进阶加速体验",
+          "AI_FEATURE_TITLE_3": "团队协作场景",
+          "AI_GUIDE_INTRO": "三步完成飞鸟云订阅配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "飞鸟云提供基础版、旗舰版和团队版三档套餐，覆盖不同流量和在线设备数量，支持流媒体解锁与游戏加速，可根据个人或团队需求灵活选择。",
+          "AI_HERO_SUBTITLE": "稳定加速，灵活选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐满足不同规模需求",
+          "AI_HIGHLIGHT_2": "年付享额外优惠",
+          "AI_HIGHLIGHT_3": "多设备同时在线支持",
+          "AI_PLANS_INTRO": "基础版适合个人，旗舰版平衡性能与价格，团队版面向多设备与定制需求。参考月付和年付价格进行选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，从基础版、旗舰版或团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "核对操作系统和客户端兼容要求，确保设备支持所选协议。",
+          "AI_STEP_TEXT_3": "参考对应客户端的配置文档，导入订阅链接并启用连接。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞鸟云套餐概览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fcfxcte.cn",
+    "host": "fcfxcte.cn"
+  },
+  "file_hashes": {
+    "index.html": "0d825525cfb5e455312bba8bce012a24cad54816ecf33de68f65b0a26e0fe335",
+    "sitemap.xml": "d2571c7c957c93470e8b3b8d7023b6e4ac068679bc852ba55f6ebe1b70f80a49",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f1767f7660a023aa2bfd41ad2a80769e743bcd5572a76f408baaaac6e343813f",
+    "robots.txt": "e05065f17f48ca938037ef242f019efb7ea44056d835c1d4cf95e1e77992eaf3",
+    "b2ede1cdbe332d7cb5e2eeb904fe27a9.txt": "be359c238de15f1d4da8b96b702b0ca2e7f70f87122c1bdee397fe7e1978ec2c"
+  },
+  "revision": "95738bac170c40e046dba605a1245751ae7bdbd1d7257c2d6c0062a7063009b0"
+}
